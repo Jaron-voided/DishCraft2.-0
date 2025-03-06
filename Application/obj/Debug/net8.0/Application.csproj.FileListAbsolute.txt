@@ -1,0 +1,17 @@
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/bin/Debug/net8.0/Application.deps.json
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/bin/Debug/net8.0/Application.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/bin/Debug/net8.0/Application.pdb
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/bin/Debug/net8.0/Domain.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/bin/Debug/net8.0/Persistence.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/bin/Debug/net8.0/Domain.pdb
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/bin/Debug/net8.0/Persistence.pdb
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/obj/Debug/net8.0/Application.csproj.CopyComplete
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/obj/Debug/net8.0/Application.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/obj/Debug/net8.0/refint/Application.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/obj/Debug/net8.0/Application.pdb
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Application/obj/Debug/net8.0/ref/Application.dll

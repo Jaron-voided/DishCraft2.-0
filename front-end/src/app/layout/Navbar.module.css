@@ -1,0 +1,86 @@
+/* General navbar styles */
+.navbar {
+    background-image: linear-gradient(135deg, #182a73 0%, #218aae 69%, #20a7ac 89%) !important;
+    padding: 0 !important;
+    z-index: 10 !important;
+}
+
+/* Logo section */
+.logo-section {
+    display: flex !important;
+    align-items: center !important;
+    gap: 0.5rem !important;
+}
+
+.logo {
+    height: 3rem !important;
+    width: auto !important;
+}
+
+.logo-text {
+    font-size: 1.5rem !important;
+    font-weight: bold !important;
+    color: white !important;
+}
+
+/* Navigation buttons container */
+.nav-buttons-container {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 1.5rem !important;
+}
+
+/* Dropdown styles */
+.nav-dropdown {
+    font-size: 1.2rem !important;
+    padding: 0.8rem 1.5rem !important;
+    min-width: 10rem !important;
+    font-weight: bold !important;
+    text-transform: none !important;
+    border-radius: 4px !important;
+}
+
+/* Specific dropdown styles */
+.ingredients-dropdown.MuiPaper-root {
+    background-color: #00b5ad !important;
+    border-radius: 0 0 4px 4px !important;
+    min-width: 10rem !important;
+}
+
+.recipes-dropdown.MuiPaper-root {
+    background-color: #db2828 !important;
+    border-radius: 0 0 4px 4px !important;
+    min-width: 10rem !important;
+}
+
+.dayplans-dropdown.MuiPaper-root {
+    background-color: #e03997 !important;
+    border-radius: 0 0 4px 4px !important;
+    min-width: 10rem !important;
+}
+
+/* User section */
+.user-section {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.avatar {
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+    margin-right: 0.5rem !important;
+}
+
+.user-dropdown {
+    background-color: #2185d0 !important;
+    color: white !important;
+    padding: 0.5rem 1rem !important;
+    border-radius: 0.3rem !important;
+    font-weight: bold !important;
+}
+
+.user-dropdown:hover {
+    background-color: #1678c2 !important;
+}

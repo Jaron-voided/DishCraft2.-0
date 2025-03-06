@@ -1,0 +1,41 @@
+body {
+    background-color: #EAEAEA !important;
+}
+
+.ui.inverted.top.fixed.menus {
+    background-image: linear-gradient(135deg, rgb(24,42,115) 0%, rgb(33, 138, 174) 69%, rgb(32, 167, 172) 89%) !important;
+}
+
+.react-calendar {
+    width: 100%;
+    border: none;
+    box-shadow: 0 1px 2px 0 rgb(34,36,38,.15);
+}
+
+/* Global responsive styles */
+@media (max-width: 768px) {
+    .buttonContainer {
+        flex-direction: column;
+        gap: 1em;
+    }
+
+    .masthead h1.ui.header {
+        font-size: 2.5em; /* Smaller header on mobile */
+    }
+
+    .masthead h2 {
+        font-size: 1.3em;
+    }
+}
+
+/* Even smaller screens */
+@media (max-width: 480px) {
+    .masthead h1.ui.header {
+        font-size: 2em;
+    }
+
+    .ui.container {
+        margin-left: 1em !important;
+        margin-right: 1em !important;
+    }
+}

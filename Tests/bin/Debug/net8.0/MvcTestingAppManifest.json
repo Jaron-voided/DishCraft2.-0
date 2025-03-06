@@ -1,0 +1,7 @@
+{
+  "API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/zeref-dragneel\/Desktop\/DishCraft2\/DishCraft\/API",
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/zeref-dragneel\/Desktop\/DishCraft2\/DishCraft\/Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/zeref-dragneel\/Desktop\/DishCraft2\/DishCraft\/Domain",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/zeref-dragneel\/Desktop\/DishCraft2\/DishCraft\/Infrastructure",
+  "Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/zeref-dragneel\/Desktop\/DishCraft2\/DishCraft\/Persistence"
+}

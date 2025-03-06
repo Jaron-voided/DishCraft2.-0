@@ -1,0 +1,15 @@
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/bin/Debug/net8.0/Persistence.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/bin/Debug/net8.0/Persistence.pdb
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/bin/Debug/net8.0/Domain.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/bin/Debug/net8.0/Domain.pdb
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/obj/Debug/net8.0/Persistence.csproj.CopyComplete
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/obj/Debug/net8.0/Persistence.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/obj/Debug/net8.0/Persistence.pdb
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Persistence/obj/Debug/net8.0/ref/Persistence.dll

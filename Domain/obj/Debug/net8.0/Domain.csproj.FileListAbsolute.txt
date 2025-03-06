@@ -1,0 +1,12 @@
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/bin/Debug/net8.0/Domain.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/bin/Debug/net8.0/Domain.pdb
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/obj/Debug/net8.0/Domain.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/obj/Debug/net8.0/Domain.pdb
+/home/zeref-dragneel/Desktop/DishCraft2/DishCraft/Domain/obj/Debug/net8.0/ref/Domain.dll
